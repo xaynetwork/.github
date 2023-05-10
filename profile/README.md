@@ -1,4 +1,4 @@
-![alt text](https://github.com/xaynetwork/.github/blob/main/images/github-banner.png)
+![alt text](https://github.com/xaynetwork/.github/blob/main/images/org-banner.png)
 
 We are Xayn, a research-based startup from Berlin, Germany focusing on privacy-protecting and energy-efficient AI technologies.
 
